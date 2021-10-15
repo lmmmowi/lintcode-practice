@@ -3,7 +3,7 @@ package com.lmmmowi.lintcode.p5;
 /**
  * @Author: lmmmowi
  * @Date: 2021/10/15
- * @Description: 5. 第k大元素[https://www.lintcode.com/problem/5]
+ * @Description: 5. 第k大元素[https://www.lintcode.com/problem/5/]
  */
 public class Solution {
 

@@ -3,7 +3,7 @@ package com.lmmmowi.lintcode.p384;
 /**
  * @Author: lmmmowi
  * @Date: 2021/10/15
- * @Description: 384. 最长无重复字符的子串[https://www.lintcode.com/problem/384]
+ * @Description: 384. 最长无重复字符的子串[https://www.lintcode.com/problem/384/]
  */
 public class Solution {
 
