@@ -13,5 +13,6 @@
 | 364 | [接雨水 II](https://www.lintcode.com/problem/364/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p364/Solution.java) |
 | 384 | [最长无重复字符的子串](https://www.lintcode.com/problem/384/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p384/Solution.java) |
 | 454 | [矩阵面积](https://www.lintcode.com/problem/454/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p454/Solution.java) |
+| 629 | [最小生成树](https://www.lintcode.com/problem/629/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p629/Solution.java) |
 | 1496 | [用Rand7()实现Rand10()](https://www.lintcode.com/problem/1496/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p1496/Solution.java) |
 | 1506 | [二叉树中所有距离为 K 的结点](https://www.lintcode.com/problem/1506/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p1506/Solution.java) |
