@@ -15,6 +15,7 @@
 | 454 | [矩阵面积](https://www.lintcode.com/problem/454/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p454/Solution.java) |
 | 629 | [最小生成树](https://www.lintcode.com/problem/629/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p629/Solution.java) |
 | 636 | [132 模式](https://www.lintcode.com/problem/636/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p636/Solution.java) |
+| 1095 | [最大的交换](https://www.lintcode.com/problem/1095/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p1905/Solution.java) |
 | 1496 | [用Rand7()实现Rand10()](https://www.lintcode.com/problem/1496/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p1496/Solution.java) |
 | 1506 | [二叉树中所有距离为 K 的结点](https://www.lintcode.com/problem/1506/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p1506/Solution.java) |
 | 1596 | [可能的二分法](https://www.lintcode.com/problem/1596/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p1596/Solution.java) |
