@@ -8,6 +8,7 @@
 | --- |:---:| :---:|
 | 5 | [第k大元素](https://www.lintcode.com/problem/5/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p5/Solution.java) |
 | 40 | [用栈实现队列](https://www.lintcode.com/problem/40/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p40/Solution.java) |
+| 54 | [转换字符串到整数](https://www.lintcode.com/problem/54/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p54/Solution.java) |
 | 148 | [颜色分类](https://www.lintcode.com/problem/148/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p148/Solution.java) |
 | 184 | [最大数](https://www.lintcode.com/problem/184/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p184/Solution.java) |
 | 363 | [接雨水](https://www.lintcode.com/problem/363/) | [java](https://github.com/lmmmowi/lintcode-practice/blob/master/src/main/java/com/lmmmowi/lintcode/p363/Solution.java) |
